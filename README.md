@@ -9,12 +9,12 @@ Hierzu nutzen wir ein offenes Sensor Terminal mit einer Vielzahl bereits integri
 Die niederschwellige Vermittlung von Wissen steht für uns dabei im Mittelpunkt, denn bisher ist IoT vor allem ein Geschäftszweig großer translatlantischer IT Unternehmen wie Amazon, Microsoft und Google. Die daraus resultierenden Lock-In-Effekte, mangelndee Transparenz und hohe Migrationskosten bedeuten für KMUs ein erhebliches Risikopotential. In vielen anderen digitalen Geschäftsfeldern haben sich in den letzten Jahren viele Lösungen auf OpenSource Basis erarbeiten lassen, mit denen nicht nur bessere Kostenkontrolle gewährleistet ist, sondern auch dem wachsenden Bewusstsein für Privacy und Datenschutz gerecht wird. IoT macht hier keine Ausnahme - dennoch gilt es Berührungsängste abzubauen und nieders chweellige Lösungsansätze bekannt zu machen, damit KMUs in Zukunft häufiger auf kommerzielle OpenSouce Lösungen zurückgreifen können. Die ODE Open Source Cloud und die ihr beigeordneten Hackathons dienen somit der digitalen Emanzipation, der Vermittlung von Datensouveränität, der Entwicklung neuer Geschäftsbereiche und dem wachsenden Bedarf für Analyse, Fernwartung und das Generieren von OpenData.
 
 - [Link zur Webseite](https://it-tech-up.de/it-strategie/data/hackathon)
-- [Hackathon-Team auf Keybase](keybase://team-page/ode_hackathon)
+- [Hackathon-Team auf Keybase](https://keybase.io/team/ode_hackathon)
 
 ## 1. Hackathon
 **17.11.21 in Magdeburg, Nachtweide 99**
 
-###Tagesordnung:
+### Tagesordnung:
 - 10:00 Begrüßung & Vorstellung Cloud #ODE - Kubernetes, Officekompatibles System, Infinimesh, Konferenzsoftware, OS Messenger Keybase, IoT Plattform/ Verbindung Open Data (Bruno Kramm / Alexander Alten)
 - 10:30 Vorstellung Usecases aus LeanCoffee Veranstantaltung (Wirtschaft, Wissenschaft, Kultur) (Julia Bütow)
 - 10:45 Vorstellung Sensorboard / Arduino / Grove / NodeRed / Infinimesh auf OVGU Kubernetes / Netzwerk Verbindung Sensorterminal / Einbindung verschiedener Sensortypen  (Simon Kowalewski & Bruno Kramm)
