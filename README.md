@@ -12,10 +12,13 @@ Wir nutzen ein offenes Sensor Terminal mit einer Vielzahl bereits integrierter S
 ## Mitmachen
 Alle Interessierten sind eingeladen der Community auf [Keybase](https://keybase.io/team/ode_hackathon) beizutreten. Informationen zur nächsten Runde wird es bald hier zu finden geben.
 
-## 2. Runde
-Die Hackathons gehen (virtuell) weiter am 18.12.2021 und am 19.12.2021. Dabei wird es am 18. Dezember um das Thema Verkehr und am 19. Dezember um das Thema Biomonitoring gehen.
+## Weitere Hackathons
+Im Januar 2022 wird es noch einen Hackathon zum Thema Verkehr geben. Darüber hinaus wird es eine Veranstaltung speziell zur Visualisierung aller bis dahin gesammelten Daten geben. Alle weiteren Infos dazu werden hier zeitnah veröffentlicht werden.
 
 Darüber hinaus freuen wir uns auch über neue Ideen aus der Community und organisieren gerne weitere Termine.
+
+## 2. Runde
+Am 19. Dezember ging es mit einer zweiten (virtuellen) Runde zum Usecase "Alge" weiter.
 
 ## 1. Runde
 Am 17. November 2021 fand die erste Runde des ODE.OpenDataEcosystem IoT Hackathons statt. Dabei ging es um die vier Themenfelder Alge, Verkehr, Solar und LoRaPark.
